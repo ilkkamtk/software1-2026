@@ -8,3 +8,11 @@ square_area = side * side
 
 print(f"Area of the circle is {circle_area:.2f}")
 print(f"Area of the square is {square_area:.2f}")
+
+
+# floor division
+
+kilos = 29545.95 // 1000
+grams = 29545.95 - kilos * 1000
+
+print(f"Kilos: {kilos}, grams: {grams}")
