@@ -1,4 +1,4 @@
-"""Software 1 Exercise 4"""
+"""Software 1 Condition exercises"""
 
 # Phase 1
 zander_limit = 42
